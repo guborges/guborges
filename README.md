@@ -1,7 +1,6 @@
 ### Hi Folks 👋
 
 
-- 🔭 Atualmente trabalhando como Analista de Sistemas
 - 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE
 - 🤔 Procurando ajudas com DBA ORACLE, SQL
 - 💬 Ask me about tudo!
