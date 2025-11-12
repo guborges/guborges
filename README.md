@@ -1,10 +1,7 @@
 ### Hi Folks 👋
 
 
-- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE
-- 🤔 Procurando ajudas com DBA ORACLE, SQL
-- 💬 Ask me about tudo!
-- ⚡ Fun fact: Sou um eterno amante de jogos MMORPG, especialmente meu querido Tibia!
+- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
 
 <div>
   <a href="https://github.com/guborges">
