@@ -3,11 +3,7 @@
 
 - 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
 
-<div>
-  <a href="https://github.com/guborges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guborges&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-oracle" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>  
