@@ -2,11 +2,6 @@
 
 
 - 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
-- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
-- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
-- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
-- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
-- 📖 Aprendendo (tentando) tudo sobre banco de dados ORACLE, Postgres, MySQL
 
 <div>
   <a href="https://github.com/guborges">
