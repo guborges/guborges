@@ -9,7 +9,7 @@ https://dbagustavoborges.com.br
 - 📖tudo sobre banco de dados ORACLE, Postgres, MySQL
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Gustavo-oracle" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gustavo-oracle" height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Gustavo-oracle" height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
