@@ -1,5 +1,10 @@
 ### Hi Folks 👋
+ORACLE ACE ASSOCIATE 
+https://apexadb.oracle.com/ords/ace/profile/dbagustavoborges
+
+Links
 https://dbagustavoborges.com.br
+https://www.linkedin.com/in/gustavobevangelista/
 
 - 📖tudo sobre banco de dados ORACLE, Postgres, MySQL
 
